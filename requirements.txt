@@ -1,0 +1,7 @@
+
+pm4py==2.7.23.9
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
